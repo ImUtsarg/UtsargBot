@@ -1,4 +1,4 @@
-#more old and shitty code, remove the role check or change it if u want
+#more old and shitty code, remove the role check or change it
 
 import discord
 from discord.ext import commands
