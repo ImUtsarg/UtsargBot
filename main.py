@@ -1,5 +1,6 @@
 #very old and shitty src
 #idc abt this shitty bot im working on a new bot that is better discord.gg/winstreak
+#im too lazy to remove the role checks, change it or remove it if you want idc
 
 import discord
 import os
